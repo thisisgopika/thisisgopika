@@ -57,7 +57,7 @@ Interactive chatbot for event management and user engagement
 - 🌐 Building more full-stack applications
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [https://www.linkedin.com/feed/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/thisisgopika04/]
 - 📧 Email: [thisisgopika04@gmail.com]
 - 🐦 Twitter: [@gopika033]
   
