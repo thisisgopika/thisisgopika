@@ -44,12 +44,6 @@ Interactive chatbot for event management and user engagement
 - **Status:** Complete ✅
 
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisisgopika&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisgopika&layout=compact&theme=radical)
-
 ## 🎯 Current Goals
 - 🚀 Contributing to open source projects
 - 📚 Learning React.js and advanced backend development
