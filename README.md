@@ -58,9 +58,8 @@ Interactive chatbot for event management and user engagement
 - **Features:** Automated responses, event information handling
 - **Status:** Complete ✅
 ## 🎯 Current Goals
-- 🚀 Contributing to open source projects
+- 🚀 Exploring to contribute to open source projects
 - 📚 Learning React.js and advanced backend development
-- 🏆 Preparing for Google Summer of Code
 - 🌐 Building more full-stack applications
 ## 📫 Let's Connect!
 - 💼 LinkedIn: [https://www.linkedin.com/in/thisisgopika04/]
