@@ -23,6 +23,25 @@
 - **Features:** QUITO-X coarse filter with 77% token reduction, EP-EXIT fine-grained span filter with 75% overall context reduction
 - **Impact:** Achieved best-in-class Token F1 (66.79%) on HotpotQA evaluated against 7 baselines
 - **Status:** Complete ✅
+
+### 🎓 [OneHub](https://github.com/thisisgopika/OneHub)
+**Full-Stack Project** - Campus event management system for colleges and universities
+- **Tech Stack:** React, Vite, Node.js, Express, PostgreSQL, Supabase, JWT, Render
+- **Features:** Multi-role dashboards (Student/Organizer/Admin), volunteer management, real-time notifications, advanced DB triggers & views, JWT authentication
+- **Impact:** 95% query reduction using database views; live production app with 37 deployments
+- **Status:** Complete ✅
+
+### 💰 [Wisor](https://github.com/thisisgopika/wisor)
+**Full-Stack Project** - Personal finance tracker with dashboards and insights
+- **Tech Stack:** React, Vite, Tailwind CSS, shadcn/ui, Node.js, Express, SQLite, Recharts
+- **Features:** Expense/income dashboard with charts, filterable transactions, budget tracking, rule-based insights
+- **Status:** Complete ✅
+
+### ❄️ [Cold-Chain Pharma Logistics Ledger](https://github.com/thisisgopika/cold-chain-pharma-ledger)
+**Full-Stack Project** - Real-time monitoring app for pharma cold-chain shipments
+- **Tech Stack:** React, Tailwind CSS, Recharts, Node.js, Express, MongoDB Atlas, WebSockets
+- **Features:** Live telemetry streaming, geofencing & temperature/humidity alerts, immutable audit log, real-time India transit map
+- **Status:** Complete ✅
 ### 🌶️ [SpiceHold](https://github.com/thisisgopika/spicehold)
 **Hackathon Project** - AI-powered platform for Kerala's cardamom farmers
 - **Tech Stack:** HTML, CSS, JavaScript, AI Integration
